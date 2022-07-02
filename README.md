@@ -1,1 +1,1 @@
-# idowu-bukola-Alt_School-assignment-02
+This is Assignment two(2) from AltSchool. Based on JavaScript.
